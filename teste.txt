@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-cuUUUU
-=======
-Teste
-abcd
->>>>>>> parent of 7fc984d... Adicionando linha no arquivo
+CU
